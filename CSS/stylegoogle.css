@@ -1,0 +1,130 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navegador {
+    margin: 15px 0px;
+    position: absolute;
+    right: 1.2%;
+}
+
+.navegador a {
+    color: black;
+    padding: 0px 10px;
+}
+
+p a {
+    color: blue;
+}
+
+.links-buttons li {
+    display: inline-block;
+    margin: 3px;
+}
+
+.section-img {
+    width: 270px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+
+.section-input {
+    width: 590px;
+    position: relative;
+    top: 70px;
+    left: 360px;
+}
+
+.section-input button {
+    position: relative;
+    top: 9px;
+    left: 4px;
+}
+
+.contenedor-input{
+    width: 590px;
+    height: 40px;
+    border:rgb(233, 230, 230) solid;
+    border-radius: 30px;
+    border-width: 1px;
+    position: relative;
+    top: 113px;
+    left: 347px;
+    
+
+}
+
+input {
+    width: 500px;
+    height: 30px;
+    border: none;
+    position: relative;
+    top: 1px;
+}
+
+
+.button-main {
+    position: relative;
+    top: 90px;
+    left: 480px;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+.button-main button {
+    padding: 8px;
+    background-color: rgba(233, 229, 229, 0.418);
+}
+
+p {
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: -10px;
+}
+
+footer {
+    width: 100%;
+    height: 14%;
+    background-color: #f3ededbe;
+    position: absolute;
+    bottom: 0%;
+}
+
+.country {
+    padding-left: 30px;
+    padding-top: 13px;
+    padding-bottom: 20px;
+    border-bottom: solid rgba(128, 128, 128, 0.233);
+    border-width: 1px;
+    color: gray;
+}
+
+.links-footer a {
+    color: gray;
+    padding: 0px 10px;
+}
+
+.links-footer {
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+
+.links-footer-right {
+    display: inline-block;
+    position: absolute;
+    right: 5%;
+}
+
+.links-footer-left {
+    display: inline-block;
+}
+
